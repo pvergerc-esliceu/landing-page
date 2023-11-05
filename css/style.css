@@ -17,7 +17,7 @@ body{
     width: 1440px;
     height: 1024px;
     background-color: #FFF;
-    background-image: url(./img/whiteblur.png), url(./img/pinkblur.png), url(./img/blueblur.png), url(./img/yellowblur.png), url(./img/blueblur2.png);
+    background-image: url(../img/whiteblur.png), url(../img/pinkblur.png), url(../img/blueblur.png), url(../img/yellowblur.png), url(../img/blueblur2.png);
     background-position: left, left, right, right, left, left;
     background-position-y: center, top, top, bottom, bottom, center;
     background-repeat: no-repeat;
@@ -266,7 +266,7 @@ body{
     height: 488.541px;
     flex-shrink: 0  ;
     border-radius: 358.343px;
-    background: url(./img/face.png);
+    background: url(../img/face.png);
 }
 
 .loremipsum{
